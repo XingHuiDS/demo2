@@ -14,5 +14,12 @@ public class FirstClass {
   }
   public  void test(){
     System.out.println("a");
+
+  }  public  void tes2(){
+    System.out.println("b");
+
+  }  public  void test3(){
+    System.out.println("c");
+
   }
 }
